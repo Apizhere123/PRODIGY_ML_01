@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Apizhere123
+- 👋 Hi, I’m Adityaraj Paswan
 - 🎓 Currently Pursuing BCA from Haridwar University. 
 - 👀 I’m interested in Python Coding. 
 - 🔥 I’m currently learning Advance Python.  
